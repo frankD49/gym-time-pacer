@@ -1,5 +1,8 @@
 # gym-time-pacer
 Designed to help you pace your activities. A simple and fun metronome
+
+
+
 Privacy Policy for Gymtime-pacer
 Effective Date: 24/10/2024
 Gymtime-pacer is committed to protecting your privacy. This Privacy Policy outlines how
